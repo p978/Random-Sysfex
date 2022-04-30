@@ -10,6 +10,7 @@ Replace The files in ~/.config/sysfex with this repo's files
 After that add this line in the end of .bashrc or .zshrc
 
 ```python ~/.config/sysfex/Random.py
+
 ```
 
 

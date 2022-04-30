@@ -2,14 +2,15 @@
 A Script for random ascii in Sysfex
 
 # Dependencies
-Sysfex
+- Sysfex
 
 # Installation
 Replace The files in ~/.config/sysfex with this repo's files
 
 After that add this line in the end of .bashrc or .zshrc
 
-```python ~/.config/sysfex/Random.py
+```
+python ~/.config/sysfex/Random.py
 
 ```
 
